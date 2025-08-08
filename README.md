@@ -10,7 +10,7 @@ Welcome to **CraftForm Builder** – a dynamic and customizable form creation to
 
 CraftForm Builder is a form-building platform I developed as part of an advanced full-stack development challenge. It focuses on user experience and powerful customization, enabling the creation of interactive and media-rich forms.
 
-🔗 **Project Dashboard**: [Lovable Project](https://lovable.dev/projects/8f4b1c67-e474-473e-be2e-314d67336bdb)
+
 
 ---
 
