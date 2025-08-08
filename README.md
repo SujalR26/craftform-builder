@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+# 🧩 CraftForm Builder
 
-## Project info
+Welcome to **CraftForm Builder** – a dynamic and customizable form creation tool that I built using modern frontend technologies. This project allows users to create complex forms with support for Categorize, Cloze, and Comprehension question types, image uploads, and MongoDB integration for persistent data storage.
 
-**URL**: https://lovable.dev/projects/8f4b1c67-e474-473e-be2e-314d67336bdb
+## 🚀 Live Preview
 
-## How can I edit this code?
+🌐 **Website**: [CraftForm Builder](https://craftform-builder-sujal-rathores-projects-bd32648d.vercel.app/)
 
-There are several ways of editing your application.
+## 📂 Project Overview
 
-**Use Lovable**
+CraftForm Builder is a form-building platform I developed as part of an advanced full-stack development challenge. It focuses on user experience and powerful customization, enabling the creation of interactive and media-rich forms.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8f4b1c67-e474-473e-be2e-314d67336bdb) and start prompting.
+🔗 **Project Dashboard**: [Lovable Project](https://lovable.dev/projects/8f4b1c67-e474-473e-be2e-314d67336bdb)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## 🛠️ Tech Stack
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- ⚡ **Vite** – Fast development bundler
+- 🧠 **TypeScript** – Type-safe JavaScript
+- ⚛️ **React** – Component-based UI library
+- 🎨 **Tailwind CSS** – Utility-first CSS framework
+- 🧱 **shadcn/ui** – Beautifully designed UI components
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/8f4b1c67-e474-473e-be2e-314d67336bdb) and click on Share -> Publish.
+## 🧑‍💻 How to Run Locally
 
-## Can I connect a custom domain to my Lovable project?
+To work with this project on your local machine, follow these steps:
 
-Yes, you can!
+```bash
+# 1. Clone the repository
+git clone <YOUR_GIT_URL>
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+# 2. Navigate to the project directory
+cd <YOUR_PROJECT_NAME>
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# 3. Install dependencies
+npm install
+
+# 4. Run the development server
+npm run dev
